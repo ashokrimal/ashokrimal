@@ -10,6 +10,8 @@
 
 
 
+
+
 ### A Passionate Developer from Nepal.
 
 - 🌐 Check out my [website](https://ashokrimal.com.np) to learn more about me.
@@ -19,11 +21,22 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ashokrimal)
 
 
+## My Projects
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokrimal) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lamirkohsa) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lamirkohsa)
+- [**Portfolio**](https://github.com/ashokrimal/lamirkohsa.dev) - Personal portfolio website showcasing my skills and projects.
+- [**IMDb Clone**](https://github.com/ashokrimal/imdb) - A clone of IMDb with a movie search feature.
+
+
+
+
+## Currently Learning 📚
+
+- MERN Stack (MongoDB, Express, React, Node.js)
+- Swift for iOS development
+- Kotlin for Android development
+
+
+
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,10 +51,25 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokrimal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Languages Used" width="100%" /></p>
 
 
+
+
+
+
+## Why I Code 💻
+
+I'm passionate about problem-solving and creating solutions that make a real impact. Coding allows me to turn ideas into reality, and there's nothing more fulfilling than seeing a project come to life.
+
+
 ## Sponsors
 
 Support me by becoming a [sponsor](https://github.com/sponsors/ashokrimal).
 Your logo will show up here with a link to your website. 
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokrimal) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lamirkohsa) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lamirkohsa)
+
 
 
 
