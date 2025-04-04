@@ -1,6 +1,13 @@
 <img src="https://cdn.discordapp.com/attachments/1269994258438557727/1357743745138819327/image.png?ex=67f150e6&is=67efff66&hm=90ccde58d03b0c2bcfefa3b37fed0e3314ab595aeff1b2d0b4a3259847be030a&" alt="Banner" />
 
-<p align=center># Hi 👋, I'm Ashok Rimal </p>
+<p align="center">
+  <a href="https://www.ashokrimal.com.np/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1269994258438557727/1357743745138819327/image.png?ex=67f150e6&is=67efff66&hm=90ccde58d03b0c2bcfefa3b37fed0e3314ab595aeff1b2d0b4a3259847be030a&" alt="lamirkohsa ">
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokrimal&label=Profile%20views&color=0e75b6&style=flat" alt="lamirkohsa" /> </p>
+  </a>
+
+</p>
+
+# Hi 👋, I'm Ashok Rimal 
 
 ### A Passionate Developer from Nepal.
 
