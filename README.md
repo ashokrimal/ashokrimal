@@ -40,7 +40,7 @@
 
 ## Sponsors
 
-Support this project by becoming a [sponsor](https://github.com/sponsors/ashokrimal).
+Support me by becoming a [sponsor](https://github.com/sponsors/ashokrimal).
 Your logo will show up here with a link to your website. 
 
 
