@@ -1,4 +1,4 @@
-<img src="" alt="Banner" />
+<img src="https://cdn.discordapp.com/attachments/1269994258438557727/1357743745138819327/image.png?ex=67f150e6&is=67efff66&hm=90ccde58d03b0c2bcfefa3b37fed0e3314ab595aeff1b2d0b4a3259847be030a&" alt="Banner" />
 
 # Hi 👋, I'm Ashok Rimal
 
