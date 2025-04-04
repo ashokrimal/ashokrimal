@@ -46,4 +46,4 @@ Support this project by becoming a [sponsor](https://opencollective.com/ashokrim
   <img src="https://img.shields.io/badge/Sponsors-GitHub-brightgreen" alt="Sponsors" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ <p align="right"><a href="#readme-top"> <img src="https://www.flaticon.com/free-icon/top_4501771?term=top&page=1&position=29&origin=search&related_id=4501771" > </a></p>
