@@ -35,15 +35,18 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokrimal&show_icons=true&locale=en&layout=compact" alt="lamirkohsa" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokrimal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Languages Used" width="100%" /></p>
 
 
-## Sponsors 
-Support this project by becoming a [sponsor](https://opencollective.com/ashokrimal#sponsor). Your logo will show up here with a link to your website. 
+## Sponsors
+
+Support this project by becoming a [sponsor](https://github.com/sponsors/ashokrimal).
+Your logo will show up here with a link to your website. 
 
 
-<a href="https://github.com/sponsors/ashokrimal">
-  <img src="https://img.shields.io/badge/Sponsors-GitHub-brightgreen" alt="Sponsors" />
-</a>
 
- <p align="right"><a href="#readme-top"> <img src="https://www.flaticon.com/free-icon/top_4501771?term=top&page=1&position=29&origin=search&related_id=4501771" > </a></p>
+
+ <p align="right"><a href="#readme-top"> <img src="![image](https://github.com/user-attachments/assets/d6308ac9-9afc-46fe-ac1e-6484893f8cad)
+" > </a></p>
+ 
+
