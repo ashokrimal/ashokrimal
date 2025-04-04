@@ -39,7 +39,7 @@
 
 
 ## Sponsors 
-Support this project by becoming a [sponsor](https://opencollective.com/git-point#sponsor). Your logo will show up here with a link to your website. 
+Support this project by becoming a [sponsor](https://opencollective.com/ashokrimal#sponsor). Your logo will show up here with a link to your website. 
 
 
 <a href="https://github.com/sponsors/ashokrimal">
