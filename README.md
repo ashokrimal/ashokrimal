@@ -1,4 +1,4 @@
-<img src="your-banner-image.png" alt="Banner" />
+<img src="https://www.figma.com/design/w9RZrut4mCDxE0ZjPKFxBN/Vizality-Addon-Banner--Community---Community-?node-id=0-1&m=dev&t=TlxG9aoOUVNUgqmt-1" alt="Banner" />
 
 # Hi 👋, I'm Ashok Rimal
 
