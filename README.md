@@ -1,13 +1,14 @@
 
-
+<hr>
 <p align="center">
-  <a href="https://ashokrimal.com.np/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1269994258438557727/1357743745138819327/image.png?ex=67f150e6&is=67efff66&hm=90ccde58d03b0c2bcfefa3b37fed0e3314ab595aeff1b2d0b4a3259847be030a&" alt="lamirkohsa ">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokrimal&label=Profile%20views&color=0e75b6&style=flat" alt="lamirkohsa" /> </p>
+  <a href="https://ashokrimal.com.np/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1269994258438557727/1357743745138819327/image.png?ex=67f150e6&is=67efff66&hm=90ccde58d03b0c2bcfefa3b37fed0e3314ab595aeff1b2d0b4a3259847be030a&" alt="Banner ">
+    <hr>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokrimal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
   </a>
 
 </p>
 
-# Hi 👋, I'm Ashok Rimal 
+
 
 ### A Passionate Developer from Nepal.
 
@@ -17,7 +18,7 @@
 - ⚡ Fun fact: **I turn coffee into code ☕**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ashokrimal)
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashokrimal&theme=dark)
+
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokrimal) 
@@ -32,3 +33,17 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokrimal&show_icons=true&locale=en&layout=compact" alt="lamirkohsa" /></p>
+
+
+## Sponsors 
+Support this project by becoming a [sponsor](https://opencollective.com/git-point#sponsor). Your logo will show up here with a link to your website. 
+
+
+<a href="https://github.com/sponsors/ashokrimal">
+  <img src="https://img.shields.io/badge/Sponsors-GitHub-brightgreen" alt="Sponsors" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
