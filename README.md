@@ -1,4 +1,4 @@
-<img src="https://www.figma.com/design/w9RZrut4mCDxE0ZjPKFxBN/Vizality-Addon-Banner--Community---Community-?node-id=0-1&t=TlxG9aoOUVNUgqmt-1" alt="Banner" />
+<img src="<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/w9RZrut4mCDxE0ZjPKFxBN/Vizality-Addon-Banner--Community---Community-?node-id=0-1&embed-host=share" allowfullscreen></iframe>" alt="Banner" />
 
 # Hi 👋, I'm Ashok Rimal
 
