@@ -15,7 +15,7 @@
 - 🌐 Check out my [website](https://ashokrimal.com.np) to learn more about me.
 - 📚 I’m currently learning **MERN Stack & Swift/Kotlin**
 - 📩 How to reach me: **lamirkohsa@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code ☕**
+- ⚡ Fun fact: **I see patterns where others see problems.**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ashokrimal)
 
 
