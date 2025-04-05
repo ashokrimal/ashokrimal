@@ -48,7 +48,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokrimal&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML,CSS" alt="Languages Used" width="100%" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokrimal&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML" alt="Languages Used" width="100%" /></p>
 
 
 
