@@ -66,28 +66,31 @@ Support me by becoming a [sponsor](https://github.com/sponsors/ashokrimal).
 Your logo will show up here with a link to your website. 
 
 ## Connect with me:
-<table width="100%">
-  <tr>
-    <!-- Left side: Social badges -->
-    <td align="left">
-      <a href="https://www.linkedin.com/in/ashokrimal">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="https://www.instagram.com/lamirkohsa">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-      <a href="https://twitter.com/lamirkohsa">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-      </a>
-    </td>
-    <!-- Right side: Go to Top -->
-    <td align="right">
-      <a href="#readme-top" title="Go to Top">
-        <img src="https://cdn.simpleicons.org/upptime/2496ED" width="30" alt="Go to Top" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+
+<div  style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+
+  <!-- Left: Social Badges -->
+  <div style="display: inline-block; vertical-align: middle;">
+    <a href="https://www.linkedin.com/in/ashokrimal">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/lamirkohsa">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://twitter.com/lamirkohsa">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </div>
+
+  <!-- Right: Go to Top Icon -->
+  <div align="right" style="display: inline-block; margin-left: auto; margin-top:0;">
+    <a href="#readme-top" title="Go to Top">
+      <img src="https://cdn.simpleicons.org/upptime/2496ED" width="30" alt="Go to Top" style="vertical-align: middle;" />
+    </a>
+  </div>
+
+</div>
 
 <hr>
  
