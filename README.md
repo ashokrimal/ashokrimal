@@ -66,15 +66,29 @@ Support me by becoming a [sponsor](https://github.com/sponsors/ashokrimal).
 Your logo will show up here with a link to your website. 
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokrimal) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lamirkohsa) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lamirkohsa)
+<table width="100%">
+  <tr>
+    <!-- Left side: Social badges -->
+    <td align="left">
+      <a href="https://www.linkedin.com/in/ashokrimal">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://www.instagram.com/lamirkohsa">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+      <a href="https://twitter.com/lamirkohsa">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a>
+    </td>
+    <!-- Right side: Go to Top -->
+    <td align="right">
+      <a href="#readme-top" title="Go to Top">
+        <img src="https://cdn.simpleicons.org/upptime/2496ED" width="30" alt="Go to Top" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-
-
-
- <p align="right"><a href="#readme-top"> <img src="![image](https://github.com/user-attachments/assets/d6308ac9-9afc-46fe-ac1e-6484893f8cad)
-" > </a></p>
+<hr>
  
 
