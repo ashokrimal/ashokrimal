@@ -48,7 +48,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokrimal&show_icons=true&locale=en&layout=compact&theme=dark&hide=HTML" alt="Languages Used" width="100%" /></p>
+
 
 
 
@@ -68,7 +68,49 @@ Your logo will show up here with a link to your website.
 ## Connect with me:
 
 
-<div  style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+
+
+
+
+
+
+
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ashokrimal&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokrimal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokrimal&theme=dracula&hide_border=true">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/ashokrimal"> 
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="lamirkohsa" />
+  </a>
+</p>
+
+<br />
+
+<a href="https://www.google.com/search?q=Ashok+Rimal || https://linktr.ee/lamirkohsa">
+  <table align="left">
+      <tr>
+          <td>
+            😊&nbsp;&nbsp;Learn more about me!
+          </td>
+      </tr>
+  </table>
+</a>
+<a href="https://ashokrimal.com.np">
+  <table align="right">
+      <tr>
+          <td>
+            🌐 &nbsp;&nbsp;Explore my potfolio!
+          </td>
+      </tr>
+  </table>
+</a>
+
+<hr>
+
+
+<div  style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin:2; align:center; ">
 
   <!-- Left: Social Badges -->
   <div style="display: inline-block; vertical-align: middle;">
@@ -82,16 +124,10 @@ Your logo will show up here with a link to your website.
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
   </div>
-
-  <!-- Right: Go to Top Icon -->
-  <div align="right" style="display: inline-block; margin-left: auto; margin-top:0;">
-    <a href="#readme-top" title="Go to Top">
-      <img src="https://cdn.simpleicons.org/upptime/2496ED" width="30" alt="Go to Top" style="vertical-align: middle;" />
-    </a>
-  </div>
-
 </div>
-
 <hr>
+
+
+
  
 
