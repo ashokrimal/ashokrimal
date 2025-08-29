@@ -1,7 +1,7 @@
 <a name="readme-top"></a> GitHub - ashokrimal | lamirkohsa
 <hr>
 <p align="center">
-  <a href="https://ashokrimal.com.np/" target="_blank" rel="noreferrer"><img src="https://cdn.discordapp.com/attachments/1269994258438557727/1357743745138819327/image.png?ex=67f150e6&is=67efff66&hm=90ccde58d03b0c2bcfefa3b37fed0e3314ab595aeff1b2d0b4a3259847be030a&" alt="Banner ">
+  <a href="https://ashokrimal.com.np/" target="_blank" rel="noreferrer"><img src="https://www.reddit.com/user/lamirkohsa/comments/1n2u5vb/github_ashokrimal_lamirkohsa/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" alt="Banner ">
     <hr>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokrimal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
   </a>
@@ -69,26 +69,7 @@ Your logo will show up here with a link to your website.
 
 
 
-
-
-
-
-
-
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ashokrimal&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokrimal&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokrimal&theme=dracula&hide_border=true">
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/ashokrimal"> 
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="lamirkohsa" />
-  </a>
-</p>
-
-<br />
-
-<a href="https://www.google.com/search?q=Ashok+Rimal || https://linktr.ee/lamirkohsa">
+  <!-- <a href="https://www.google.com/search?q=Ashok+Rimal || https://linktr.ee/lamirkohsa">
   <table align="left">
       <tr>
           <td>
@@ -106,11 +87,21 @@ Your logo will show up here with a link to your website.
       </tr>
   </table>
 </a>
+ --> 
 
-<hr>
 
 
-<div  style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin:2; align:center; ">
+
+
+
+<br />
+
+
+
+
+
+
+<div  style="display: flex; justify-content: space-between; align-items: left; flex-wrap: wrap; margin:2; align:center; ">
 
   <!-- Left: Social Badges -->
   <div style="display: inline-block; vertical-align: middle;">
@@ -123,9 +114,15 @@ Your logo will show up here with a link to your website.
     <a href="https://twitter.com/lamirkohsa">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
+    <a href="https://discord.gg/bbdrXneA">
+      <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge" alt="Discord" />
+    </a>
+    
   </div>
 </div>
 <hr>
+
+
 
 
 
