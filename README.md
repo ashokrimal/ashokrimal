@@ -24,7 +24,9 @@
 ## My Projects
 
 - [**Portfolio**](https://github.com/ashokrimal/lamirkohsa.dev) - Personal portfolio website showcasing my skills and projects.
-- [**IMDb Clone**](https://github.com/ashokrimal/imdb) - A clone of IMDb with a movie search feature.
+- [**DSMS**](https://github.com/ashokrimal/rass) - A project for Departmental Store Management System.
+
+
 
 
 
