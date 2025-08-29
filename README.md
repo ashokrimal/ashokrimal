@@ -1,7 +1,7 @@
 <a name="readme-top"></a> GitHub - ashokrimal | lamirkohsa
 <hr>
 <p align="center">
-  <a href="https://ashokrimal.com.np/" target="_blank" rel="noreferrer"><img src="https://www.reddit.com/user/lamirkohsa/comments/1n2u5vb/github_ashokrimal_lamirkohsa/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" alt="Banner ">
+  <a href="https://ashokrimal.com.np/" target="_blank" rel="noreferrer"><img src="GIthub - ashokrimal | lamirkohsa.png" alt="Banner ">
     <hr>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokrimal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
   </a>
