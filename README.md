@@ -229,7 +229,7 @@ I spend most of my time architecting full-stack web platforms, cross-platform mo
 
 <p align="center">
   <a href="https://github.com/ashokrimal?tab=followers" target="_blank">
-    <img src="https://github-readme-followers.exuan.workers.dev/api?username=ashokrimal&max=30" alt="Followers List" />
+    <img src="https://metrics.lecoq.io/ashokrimal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=25&people.identicons=false&people.identicons.hide=false&people.size=30&people.types=followers&people.shuffle=false&config.timezone=Asia%2FKatmandu">
   </a>
 </p>
 
